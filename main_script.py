@@ -1,1 +1,1 @@
-新增 main_script.py
+print("Hello, world!")
